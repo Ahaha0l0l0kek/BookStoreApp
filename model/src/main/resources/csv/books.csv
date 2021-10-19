@@ -1,0 +1,14 @@
+ID,name,author,price,description,date_of_issue,availability,stock,receipt_date
+1,a,a,5.0,a,1/1/1111,false,1,2/2/2222
+0,egrsrg,sergs,345.0,esrtesesrtsetr,1/1/2002,false,1,2/2/2020
+ID,book_ID,quality,date_of_request,is_completed
+1,2,4,02/2/2222,false
+ID,book_ID,quality,date_of_request,is_completed
+2,0,3,02/2/2222,false
+ID,name,phone_number
+0,,
+ID,name,phone_number
+6,lexa,83593634
+ID,name,phone_number
+7,heha,28349248
+0,egrsrg,sergs,345.0,esrtesesrtsetr,1/1/2002,false,1,2/2/2020
